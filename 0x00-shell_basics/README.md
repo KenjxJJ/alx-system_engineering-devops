@@ -19,5 +19,7 @@ Script to list more files (hidden ones too) in a long format
 Script to list files in a long format with group IDs
 
 # 6-firstdirectory
-Script to create my_firstdirectory in /tmp/
+Script to create my_first_directory in /tmp/
 
+# 7-movethatfile
+Script to move file betty from /tmp/ to /tmp/my_first_directory
