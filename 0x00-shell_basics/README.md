@@ -38,3 +38,7 @@ Script to list  all files including hidden ones and the parent of the working di
 
 # 12-file_type
 Script that prints type of the file
+
+
+# 13-symbolic_link
+Script that create symbolic link to /bin/ls. Create link with a name __ls__
