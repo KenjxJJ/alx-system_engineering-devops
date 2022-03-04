@@ -41,4 +41,9 @@ Script that prints type of the file
 
 
 # 13-symbolic_link
-Script that create symbolic link to /bin/ls. Create link with a name __ls__
+Script that creates symbolic link to /bin/ls. Create link with a name __ls__
+
+
+# 14-copy_html
+Script that copy html from working directory to parent directory
+
