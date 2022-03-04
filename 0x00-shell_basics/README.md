@@ -32,3 +32,9 @@ Script to delete /tmp/my_first_directory
 
 # 10-back
 Script to change one directory to previous one
+
+# 11-lists
+Script to list  all files including hidden ones and the parent of the working directory and the /boot directory in long format
+
+# 12-file_type
+Script that prints type of the file
