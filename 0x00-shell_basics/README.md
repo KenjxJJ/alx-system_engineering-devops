@@ -18,3 +18,6 @@ Script to list more files (hidden ones too) in a long format
 # 5-listfilesdigitonly
 Script to list files in a long format with group IDs
 
+# 6-firstdirectory
+Script to create my_firstdirectory in /tmp/
+
