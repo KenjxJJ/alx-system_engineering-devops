@@ -8,3 +8,7 @@ Script to display contents of current directory
 
 #2-bring_me_home
 Script to change to home directory
+
+#3-listfiles
+Script to list files in a long format
+
