@@ -23,3 +23,10 @@ Script to create my_first_directory in /tmp/
 
 # 7-movethatfile
 Script to move file betty from /tmp/ to /tmp/my_first_directory
+
+# 8-firstdelete
+Script to delete betty from /tmp/my_first_directory
+
+# 9-firstdirdeletion
+Script to delete /tmp/my_first_directory
+
