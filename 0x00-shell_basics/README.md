@@ -30,3 +30,5 @@ Script to delete betty from /tmp/my_first_directory
 # 9-firstdirdeletion
 Script to delete /tmp/my_first_directory
 
+# 10-back
+Script to change one directory to previous one
