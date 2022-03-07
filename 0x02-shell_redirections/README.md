@@ -42,3 +42,6 @@ Script to list the first 10 newest files in the current directory
 # 13-unique
 Script to list a sorted input from a file without duplicates by line
 
+# 14-findthatword
+Script to find a word using regex
+
