@@ -30,3 +30,6 @@ Script that creates a file with output from a command ls -la
 # 9-duplicate_last_line
 Script that appends a lastline of the iacta file to same file.
 
+# 10-no_more_js
+Script to delete all *.js files recursively
+
