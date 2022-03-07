@@ -57,3 +57,5 @@ Script to display lines starting with a letter in /etc/ssh/sshd_config
 # 19-AZ
 Script to replace 'A' and 'c' with 'Z' and 'e' respectively
 
+# 20-hiago
+Script that removes 'c' or 'C' from an input
