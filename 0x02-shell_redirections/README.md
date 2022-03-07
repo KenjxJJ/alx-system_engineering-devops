@@ -33,3 +33,9 @@ Script that appends a lastline of the iacta file to same file.
 # 10-no_more_js
 Script to delete all *.js files recursively
 
+# 11-directories
+Script to count number of directories recursively from the current
+
+# 12-newest_files
+Script to list the first 10 newest files in the current directory
+
