@@ -21,3 +21,9 @@ Script to read first 10 lines of /etc/passwd
 # 6-third_line
 Script to read third line from a file iacta
 
+# 7-file
+Script that creates a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing text
+
+# 8-cwd_state
+Script that creates a file with output from a command ls -la
+
