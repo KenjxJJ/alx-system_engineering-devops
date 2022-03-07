@@ -15,3 +15,6 @@ Script to read two files : /etc/passwd, /etc/hosts
 # 4-lastlines
 Script to read last 10 lines of /etc/passwd
 
+# 5-firstlines
+Script to read first 10 lines of /etc/passwd
+
