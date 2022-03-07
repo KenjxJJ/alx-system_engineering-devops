@@ -27,3 +27,6 @@ Script that creates a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing tex
 # 8-cwd_state
 Script that creates a file with output from a command ls -la
 
+# 9-duplicate_last_line
+Script that appends a lastline of the iacta file to same file.
+
