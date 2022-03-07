@@ -45,3 +45,15 @@ Script to list a sorted input from a file without duplicates by line
 # 14-findthatword
 Script to find a word using regex
 
+# 15-countthatword
+Script to count lines in a file /etc/passwd using regex
+
+# 17-hidethisword
+Script to exclude lines from pattern search in the file  /etc/passwd
+
+# 18-letteronly
+Script to display lines starting with a letter in /etc/ssh/sshd_config
+
+# 19-AZ
+Script to replace 'A' and 'c' with 'Z' and 'e' respectively
+
