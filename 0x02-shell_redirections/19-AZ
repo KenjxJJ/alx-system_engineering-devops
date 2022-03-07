@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "A" | echo "Z" && grep "c" | echo "e"
+tr 'A' 'Z' && tr 'c' 'e'
