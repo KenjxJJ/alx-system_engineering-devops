@@ -63,3 +63,6 @@ Script that removes 'c' or 'C' from an input
 # 21-reverse
 Script to reverse input
 
+# 22-users_and_homes
+Script to find users and home directory and sort them.
+
