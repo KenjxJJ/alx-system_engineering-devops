@@ -6,3 +6,6 @@ Script to display the hello world text on standard output
 # 1-confused_smiley
 Script to display special characters on standard output
 
+# 2-hellofile
+Script to display contents of /etc/passwd file
+
