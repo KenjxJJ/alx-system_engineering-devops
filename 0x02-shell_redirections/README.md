@@ -18,3 +18,6 @@ Script to read last 10 lines of /etc/passwd
 # 5-firstlines
 Script to read first 10 lines of /etc/passwd
 
+# 6-third_line
+Script to read third line from a file iacta
+
