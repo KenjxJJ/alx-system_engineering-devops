@@ -59,3 +59,7 @@ Script to replace 'A' and 'c' with 'Z' and 'e' respectively
 
 # 20-hiago
 Script that removes 'c' or 'C' from an input
+
+# 21-reverse
+Script to reverse input
+
