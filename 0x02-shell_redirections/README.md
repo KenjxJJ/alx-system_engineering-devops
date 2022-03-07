@@ -12,3 +12,6 @@ Script to display contents of /etc/passwd file
 # 3-twofiles
 Script to read two files : /etc/passwd, /etc/hosts
 
+# 4-lastlines
+Script to read last 10 lines of /etc/passwd
+
