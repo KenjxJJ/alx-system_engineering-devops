@@ -39,3 +39,6 @@ Script to count number of directories recursively from the current
 # 12-newest_files
 Script to list the first 10 newest files in the current directory
 
+# 13-unique
+Script to list a sorted input from a file without duplicates by line
+
