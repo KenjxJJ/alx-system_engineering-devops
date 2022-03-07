@@ -9,3 +9,6 @@ Script to display special characters on standard output
 # 2-hellofile
 Script to display contents of /etc/passwd file
 
+# 3-twofiles
+Script to read two files : /etc/passwd, /etc/hosts
+
