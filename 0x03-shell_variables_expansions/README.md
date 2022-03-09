@@ -30,3 +30,6 @@ Script to print result of two variables in exponenation
 # 11-binary_to_decimal
 Script to print decimal value from an env variable in binary form
 
+# 13-print_float
+Script to print floats in two decimal places
+
