@@ -6,6 +6,10 @@ Script to create an alias for a command
 # 1-hello_you
 Script to display current user
 
+# 2-path
+Script to append a path /action at the end of the path variable
+
+
 # 4-global_variables
 Script to print global variables
 
