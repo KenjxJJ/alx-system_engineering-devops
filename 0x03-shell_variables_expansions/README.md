@@ -22,5 +22,8 @@ Script to create global variable
 Script to print result of addition of a 128 to an environment variable TRUEKNOWLEDGE
 
 # 9-divide_and_rule
-Script to print result of two variable under division
+Script to print result of two variables under division
+
+# 10-love_exponent_breath
+Script to print result of two variables in exponenation
 
