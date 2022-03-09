@@ -18,3 +18,5 @@ Script to create a local variable
 # 7-create_global_variable
 Script to create global variable
 
+# 8-true_knowledge
+Script to print result of addition of a 128 to an environment variable TRUEKNOWLEDGE
