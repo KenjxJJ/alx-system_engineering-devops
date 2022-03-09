@@ -9,6 +9,8 @@ Script to display current user
 # 2-path
 Script to append a path /action at the end of the path variable
 
+# 3-paths
+Script to count number of paths in the PATH env variable
 
 # 4-global_variables
 Script to print global variables
