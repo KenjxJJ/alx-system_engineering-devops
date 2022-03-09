@@ -27,3 +27,6 @@ Script to print result of two variables under division
 # 10-love_exponent_breath
 Script to print result of two variables in exponenation
 
+# 11-binary_to_decimal
+Script to print decimal value from an env variable in binary form
+
