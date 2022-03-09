@@ -11,3 +11,7 @@ Script to print global variables
 
 # 5-local_variables
 Script to print local variables
+
+# 6-create_local_variable
+Script to create a local variable
+
