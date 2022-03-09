@@ -9,4 +9,5 @@ Script to display current user
 # 4-global_variables
 Script to print global variables
 
-
+# 5-local_variables
+Script to print local variables
