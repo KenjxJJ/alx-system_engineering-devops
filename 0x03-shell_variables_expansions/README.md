@@ -20,3 +20,7 @@ Script to create global variable
 
 # 8-true_knowledge
 Script to print result of addition of a 128 to an environment variable TRUEKNOWLEDGE
+
+# 9-divide_and_rule
+Script to print result of two variable under division
+
